@@ -6,5 +6,5 @@ This is a project written in JavaScript that allows you to spawn and move pacmen
 2. Open in a web browser.
 3. click the "start game" to start moving the pacmen. 
 4. click the "add pacman" to add more.
-5. #future improvments
-6. I would like to add buttons to change the shape and the size of the individual pacmen.
+# future improvments
+I would like to add buttons to change the shape and the size of the individual pacmen.
